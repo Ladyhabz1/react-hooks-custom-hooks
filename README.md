@@ -23,7 +23,7 @@ run our `json-server` backend in one terminal tab. Open another terminal tab and
 run `npm start` to run our React frontend.
 
 We'll be focusing on two components: the `HomePage` and `ArticlePage`
-components. Make sure to run the app and familiarize yourself with the code
+components. Make sure to run the app and familiarize yourself with code
 before moving on.
 
 ## Extracting Custom Hooks
